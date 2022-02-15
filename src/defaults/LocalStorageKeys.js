@@ -1,0 +1,1 @@
+export const LSK_CART = 'LC_730__cart'

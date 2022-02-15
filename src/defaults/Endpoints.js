@@ -1,0 +1,1 @@
+export const MOCK_API_ENDPOINT = 'https://61bbd243e943920017784fc5.mockapi.io/api/v1'
