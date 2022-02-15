@@ -98,7 +98,7 @@ const App = () => {
                 changeOrderType: setOrderType,
             }}>
                 <header>
-                    <h1>SISTEMA DA 730</h1>
+                    <h1>Ecommerce</h1>
                 </header>
                 <Routes>
                     {
